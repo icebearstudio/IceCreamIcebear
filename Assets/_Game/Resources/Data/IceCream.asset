@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25efe68866a4c73459eb3ebca2065282, type: 3}
+  m_Name: IceCream
+  m_EditorClassIdentifier: 
+  Params:
+  - name: Triple[Active]
+    ID: 1
+    NameIceCream: Triple
+    IconSprite: {fileID: 21300000, guid: 9f2aa5e045ff4c5418309eb366c29926, type: 3}
+    IconIceCream: {fileID: 1731036293497226, guid: 44823bb119c8aaf4baf40f8959e01d5a,
+      type: 3}
+    PlaneIceCream: {fileID: 2534032936584536307, guid: 8bb82abf08c2b47409dd2e0ca337398b,
+      type: 3}
+    ScoopIceCream: {fileID: 1641959225901068, guid: 38fc632e5cea0d94385a22a71c82f43b,
+      type: 3}
+    Active: 1
+  - name: Vanilla[Active]
+    ID: 2
+    NameIceCream: Vanilla
+    IconSprite: {fileID: 21300000, guid: 65c8b7e0c19424a3aa7cc189bd5ec548, type: 3}
+    IconIceCream: {fileID: 1020061879674376, guid: ec33e810f20b99d4984067f2b2fac77c,
+      type: 3}
+    PlaneIceCream: {fileID: 2534032936584536307, guid: 5f0dec6d214e6d94ab674f3d7ee304c7,
+      type: 3}
+    ScoopIceCream: {fileID: 1280365497104108, guid: 082dce27e7eacfe4b9e4d5bc5ef112db,
+      type: 3}
+    Active: 1
+  - name: PannaCotta[Active]
+    ID: 3
+    NameIceCream: Panacotta
+    IconSprite: {fileID: 21300000, guid: 2004070bb888f504bb9bd9203da78e32, type: 3}
+    IconIceCream: {fileID: 1492620191466865, guid: ed2584a8c502e644fbd75576b42d0815,
+      type: 3}
+    PlaneIceCream: {fileID: 2534032936584536307, guid: 41e1d7d27d6ff4c4a8894e79c376749e,
+      type: 3}
+    ScoopIceCream: {fileID: 1950148236301531, guid: 71a787a661cc65b4e8bd27e562150562,
+      type: 3}
+    Active: 1
+  - name: StrawBerry[Active]
+    ID: 4
+    NameIceCream: Straw Berry
+    IconSprite: {fileID: 21300000, guid: f6046e9271e40f043968259227b459d5, type: 3}
+    IconIceCream: {fileID: 1340899963401020, guid: 7ce565fa361189642920c5786519cd08,
+      type: 3}
+    PlaneIceCream: {fileID: 2534032936584536307, guid: dca348fe57f185c4eaede211622ba1e8,
+      type: 3}
+    ScoopIceCream: {fileID: 1232818131618331, guid: 8399c09720240494c9642bec190bafe1,
+      type: 3}
+    Active: 1
+  - name: BlueBerry[Active]
+    ID: 5
+    NameIceCream: Blue Berry
+    IconSprite: {fileID: 21300000, guid: 40296cf9e94f737439098b149eead43a, type: 3}
+    IconIceCream: {fileID: 1886553166686246, guid: 14b3f5dc11effb14bbdb17fa84848429,
+      type: 3}
+    PlaneIceCream: {fileID: 2534032936584536307, guid: c178ae15d0aa41743886b3643eaf9489,
+      type: 3}
+    ScoopIceCream: {fileID: 1022976115473401, guid: 8660b010e257452408acf62dbb06a865,
+      type: 3}
+    Active: 1
+  - name: Chocolate[Active]
+    ID: 6
+    NameIceCream: Chocolate
+    IconSprite: {fileID: 21300000, guid: ca8ec74978c205d4eae801c1b97d515c, type: 3}
+    IconIceCream: {fileID: 1863894883006369, guid: c262fbe5f74befd4f82d843c61410eb3,
+      type: 3}
+    PlaneIceCream: {fileID: 302363149031359942, guid: 0e57442f83ba8154f8cdc55b6f589e8f,
+      type: 3}
+    ScoopIceCream: {fileID: 1281877868190182, guid: f3c83bd9660cdd74795425ab7d319eac,
+      type: 3}
+    Active: 1
+  - name: Cookie[Active]
+    ID: 7
+    NameIceCream: Cookie
+    IconSprite: {fileID: 21300000, guid: 25d8d933d9ac63b42a9e754ac329b26a, type: 3}
+    IconIceCream: {fileID: 1015416422056007, guid: aee7771c649959940a78f20165c248b1,
+      type: 3}
+    PlaneIceCream: {fileID: 2534032936584536307, guid: 1048e90beb81d1346a5bcd0acbc9601d,
+      type: 3}
+    ScoopIceCream: {fileID: 1108936774474739, guid: 869929ca3fa30fa4cb023cd1e17cdd1c,
+      type: 3}
+    Active: 1
+  - name: Caramel[Active]
+    ID: 8
+    NameIceCream: Caramel
+    IconSprite: {fileID: 21300000, guid: f0e3e8455ed5c2b4ead51ee3ab7345a8, type: 3}
+    IconIceCream: {fileID: 1430213791995979, guid: 47f675f80c8087c4f923fc8a16119e79,
+      type: 3}
+    PlaneIceCream: {fileID: 2534032936584536307, guid: f90cc7c20b8662944b181583fd45491a,
+      type: 3}
+    ScoopIceCream: {fileID: 1443923162895406, guid: 686a19dbc8f8a924caa85c40f17bd9a4,
+      type: 3}
+    Active: 1
